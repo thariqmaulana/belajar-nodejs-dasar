@@ -12,4 +12,4 @@ console.info(buffer); // entah apa semacam angka. mungkin binary
 // kalau dijalankan file ini maka dia akan membuat file di folder ini dengan
 // parameter ke 1 nama file, parameter ke 2 isi file
 // karena return promise bisa ditambah await juga
-fs.writeFile("namaFile.html", "Isinya adalah Halo dari NodeJS");
+fs.writeFile("namaFile.html", "Isinya adalah Halo dari NodeJS, bisa dipakai buat update filenya juga");

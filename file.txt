@@ -1,0 +1,2 @@
+Penulis: Thariq
+Judul: membuat file dengan stream
